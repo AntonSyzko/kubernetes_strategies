@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <project.version>v1</project.version>
+        <image.version>v1</image.version>
     </properties>
 
     <dependencies>
@@ -65,7 +65,7 @@
                         <image>openjdk:11.0.3-jdk-slim</image>
                     </from>
                     <to>
-                        <image>gcr.io/$GOOGLE_CLOUD_PROJECT/spring-boot-example:${project.version}</image>
+                        <image>gcr.io/$GOOGLE_CLOUD_PROJECT/${project.name}:${image.version}</image>
 <!--                        <auth>-->
 <!--                            <username>antonsyzko</username>-->
 <!--                            <password>AntonSyzkoDockerhub123</password>-->
